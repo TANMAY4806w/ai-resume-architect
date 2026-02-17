@@ -6,6 +6,9 @@
 [![Gemini AI](https://img.shields.io/badge/Powered_by-Google_Gemini-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?logo=render&logoColor=white)](https://ai-resume-architect-qmrx.onrender.com/)
+
+🌐 **Live Demo:** [ai-resume-architect-qmrx.onrender.com](https://ai-resume-architect-qmrx.onrender.com/)
 
 ---
 

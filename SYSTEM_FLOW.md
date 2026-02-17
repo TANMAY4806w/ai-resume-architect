@@ -157,5 +157,6 @@ streamlit run app.py
 ---
 
 **GitHub:** https://github.com/TANMAY4806w/ai-resume-architect
+**Live Demo:** https://ai-resume-architect-qmrx.onrender.com/
 
 **Developed by:** Tanmay
